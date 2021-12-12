@@ -29,6 +29,6 @@ var colorsArray = {
             "red":"253",
             "green":"92",
             "blue":"48"
-        },
+        }
     ]
 }
